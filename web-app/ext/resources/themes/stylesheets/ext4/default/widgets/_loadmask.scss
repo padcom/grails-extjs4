@@ -57,9 +57,3 @@
         font: $loadmask-msg-inner-font;
     }
 }
-
-@if not $supports-gradients or $compile-all {
-    .#{$prefix}nlg .#{$prefix}mask-msg {
-/*      background-image: theme-image($theme-name, 'mask/mask-bg.gif');*/
-    } 
-}

@@ -1,7 +1,7 @@
 @import 'mixins/background-gradient';
+@import 'mixins/theme-background-image';
 @import 'mixins/inner-border';
 @import 'mixins/frame';
-@import 'mixins/btn';
 
 @mixin no-select {
     -moz-user-select:none;
