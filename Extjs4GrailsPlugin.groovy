@@ -1,6 +1,6 @@
 class Extjs4GrailsPlugin {
     // the plugin version
-    def version = "4.0.2a.0"
+    def version = "4.0.7.0"
     // the version or versions of Grails the plugin is designed for
     def grailsVersion = "1.2.0 > *"
     // the other plugins this plugin depends on
